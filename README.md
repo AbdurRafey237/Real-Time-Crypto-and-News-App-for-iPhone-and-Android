@@ -2,8 +2,6 @@
 
 A real-time cryptocurrency market tracker built with Flutter. Streams live price data from the Binance API via WebSocket and displays 2,000+ trading pairs with category filtering, text search, multi-column sorting, and offline resilience. Extends the core market tracker with a personal **watchlist**, a curated **crypto news feed**, and a full **paper-trading portfolio** simulator with historical performance charting.
 
-Originally built in ~2 days as a developer case study, then extended with personalized investing and discovery features. See [requirements](requirements.md) for the original brief.
-
 ## Screenshots
 
 | Market List | Search + Filter | Force Refresh | Market Detail |
