@@ -54,7 +54,7 @@ A real-time cryptocurrency market tracker built with Flutter. Streams live price
 
 ```bash
 # Clone the repository
-git clone https://github.com/deveminsahin/crypto_tracker.git
+git clone https://github.com/AbdurRafey237/Real-Time-Crypto-and-News-App-for-iPhone-and-Android.git
 cd crypto_tracker
 
 # Verify Flutter installation
