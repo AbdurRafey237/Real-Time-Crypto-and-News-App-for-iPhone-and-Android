@@ -1,4 +1,34 @@
-# Crypto Tracker
+<div align="center">
+
+<img src="logo.png" alt="CoinPulse Logo" width="400">
+
+<br>
+<br>
+
+<a href="https://drive.google.com/file/d/1PuhGJMp6L0IPxw5fbs09xRwF71sN7Lcm/view?usp=sharing">
+  <img src="https://img.shields.io/badge/▶%20Watch%20Demo-0EA5E9?style=for-the-badge&logoColor=white" alt="Watch Demo">
+</a>
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
+<img src="https://img.shields.io/badge/CoinGecko_API-8DC63F?style=for-the-badge&logo=coingecko&logoColor=white" alt="CoinGecko API">
+<img src="https://img.shields.io/badge/NewsAPI-1A73E8?style=for-the-badge&logo=googlenews&logoColor=white" alt="NewsAPI">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+
+</div>
+
+
+
+# CoinPulse: The Crypto Tracker & News Tracker
 
 A real-time cryptocurrency market tracker built with Flutter. Streams live price data from the Binance API via WebSocket and displays 2,000+ trading pairs with category filtering, text search, multi-column sorting, and offline resilience. Extends the core market tracker with a personal **watchlist**, a curated **crypto news feed**, and a full **paper-trading portfolio** simulator with historical performance charting.
 
